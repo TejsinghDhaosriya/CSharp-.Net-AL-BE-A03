@@ -1,7 +1,7 @@
 ﻿namespace SingletonDesignPatternConsoleApp
 {
     // Singleton Pattern - not thread safe
-    internal class Counter
+    public sealed class Counter
     {
         private static int _count;
         private static Counter _instance;
