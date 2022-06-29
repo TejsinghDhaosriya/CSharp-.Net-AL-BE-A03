@@ -1,0 +1,8 @@
+C:\Users\tej\workArea\C#.Net\SingletonDesignPatternConsoleApp\SingletonDesignPatternConsoleApp\bin\Debug\SingletonDesignPatternConsoleApp.exe.config
+C:\Users\tej\workArea\C#.Net\SingletonDesignPatternConsoleApp\SingletonDesignPatternConsoleApp\bin\Debug\SingletonDesignPatternConsoleApp.exe
+C:\Users\tej\workArea\C#.Net\SingletonDesignPatternConsoleApp\SingletonDesignPatternConsoleApp\bin\Debug\SingletonDesignPatternConsoleApp.pdb
+C:\Users\tej\workArea\C#.Net\SingletonDesignPatternConsoleApp\SingletonDesignPatternConsoleApp\obj\Debug\SingletonDesignPatternConsoleApp.csproj.AssemblyReference.cache
+C:\Users\tej\workArea\C#.Net\SingletonDesignPatternConsoleApp\SingletonDesignPatternConsoleApp\obj\Debug\SingletonDesignPatternConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\tej\workArea\C#.Net\SingletonDesignPatternConsoleApp\SingletonDesignPatternConsoleApp\obj\Debug\SingletonDesignPatternConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\tej\workArea\C#.Net\SingletonDesignPatternConsoleApp\SingletonDesignPatternConsoleApp\obj\Debug\SingletonDesignPatternConsoleApp.exe
+C:\Users\tej\workArea\C#.Net\SingletonDesignPatternConsoleApp\SingletonDesignPatternConsoleApp\obj\Debug\SingletonDesignPatternConsoleApp.pdb
