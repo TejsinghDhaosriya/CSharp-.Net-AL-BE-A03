@@ -12,7 +12,9 @@
 
         public void Increment() => _count++;
 
-        public void Decrement() => _count--;
+        public void Decrement() {
+            if (_count > 0) _count--;
+        }
 
         public int Count() => _count;
     }
